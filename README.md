@@ -1,4 +1,4 @@
-# Here is the starter files for the BBC News website layout
+# Here are the starter files for the BBC News website layout
 
 ## Feel free to use this if you get stuck or need inspiration for your own template
 
